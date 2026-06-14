@@ -1,3 +1,7 @@
+## 📷 Report Preview
+
+![Report Screenshot](sales_report.png)
+
 # 📊 Sales Analytics Report | Power BI
 
 ## 📌 Project Overview
@@ -76,12 +80,6 @@ Employees categorized into age ranges:
 * 35–44
 * 45–59
 * 60+
-
----
-
-## 📷 Report Preview
-
-![Report Screenshot](sales_report.png)
 
 
 ---
