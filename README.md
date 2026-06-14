@@ -1,6 +1,6 @@
 # 📊 Sales Analytics Report | Power BI
 
-<img src="sales_report.png" width="800">
+<img src="sales_report.png" width="700">
 
 ## 📌 Project Overview
 
