@@ -1,7 +1,12 @@
-# 📊 Sales Analytics Report | Power BI
+<h1 align="center">📊 Sales Analytics Report</h1>
 
-<img src="sales_report.png" width="700">
+<p align="center">
+  Power BI | DAX | Data Visualization
+</p>
 
+<p align="center">
+  <img src="sales_report.png" width="700">
+</p>
 ## 📌 Project Overview
 
 This project is an interactive Sales Analytics Dashboard developed in Power BI to monitor sales performance, compare planned and actual sales, and analyze employee and regional performance through dynamic visualizations.
