@@ -1,8 +1,9 @@
 <h1 align="center">📊 Sales Analytics Report</h1>
 
 <p align="center">
-  <img src="sales_report.png" width="400">
+  <img src="sales_report.png" width="500">
 </p>
+
 ## 📌 Project Overview
 
 This project is an interactive Sales Analytics Dashboard developed in Power BI to monitor sales performance, compare planned and actual sales, and analyze employee and regional performance through dynamic visualizations.
