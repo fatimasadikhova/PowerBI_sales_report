@@ -1,11 +1,7 @@
 <h1 align="center">📊 Sales Analytics Report</h1>
 
 <p align="center">
-  Power BI | DAX | Data Visualization
-</p>
-
-<p align="center">
-  <img src="sales_report.png" width="700">
+  <img src="sales_report.png" width="400">
 </p>
 ## 📌 Project Overview
 
