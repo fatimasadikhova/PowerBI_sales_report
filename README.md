@@ -1,5 +1,3 @@
-## 📷 Report Preview
-
 ![Report Screenshot](sales_report.png)
 
 # 📊 Sales Analytics Report | Power BI
